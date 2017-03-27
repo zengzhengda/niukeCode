@@ -2,6 +2,6 @@
 
 int main()
 {
-	getMaxScore();
+	taskLIst();
 	return 0;
 }
